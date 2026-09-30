@@ -1,4 +1,0 @@
-torch
-numpy<1.24
-transformers
-datasets
